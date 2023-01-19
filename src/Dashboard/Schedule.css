@@ -1,0 +1,13 @@
+.schedule{
+    box-sizing: border-box;
+
+position: absolute;
+width: 407px;
+height: 563px;
+left: 556px;
+top: 435px;
+
+background: #FFFFFF;
+border: 1px solid rgba(41, 55, 95, 0.2);
+border-radius: 6px;
+}
