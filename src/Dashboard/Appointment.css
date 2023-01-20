@@ -74,7 +74,7 @@ margin-top: 10px;
     border-radius: 20px;
     height: 40px;
 }
-.receiveDiv{
+.receiveBox{
     box-sizing: border-box;
 
     position: absolute;
@@ -88,56 +88,57 @@ margin-top: 10px;
     border-radius: 6px;
 }
 
-.innerDiv1{
+.time1{
     
 position: absolute;
 width: 376px;
 height: 40px;
 left: 571px;
 top: 638px;
-
+text-align: start;
 background: rgba(10, 148, 16, 0.04);
 }
 
-.innerDiv2{
+.time2{
 
     position: absolute;
     width: 376px;
     height: 40px;
     left: 571px;
     top: 682px;
-    
+    text-align: start;
     background: rgba(10, 148, 16, 0.04);
 }
 
-.innerDiv3{
+.time3{
 
     position: absolute;
     width: 376px;
     height: 40px;
     left: 571px;
     top: 766px;
-    
+    text-align: start;
     background: rgba(10, 148, 16, 0.04);
 }
 
-.innerDiv4{
+.time4{
     position: absolute;
     width: 376px;
     height: 40px;
     left: 571px;
     top: 810px;
-    
+    text-align: start;
     background: rgba(10, 148, 16, 0.04);
 }
 
-.innerDiv5{
+.time5{
     position: absolute;
     width: 376px;
     height: 40px;
     left: 571px;
+    color: red;
     top: 854px;
-    
+    text-align: start;
     background: rgba(252, 105, 100, 0.08);
 }
 .detail{
@@ -189,7 +190,7 @@ color: rgba(41, 55, 95, 0.8);
     width: 100px;
 }
 
-.tomorrowTuesday{
+.scheduleDay2{
     position: absolute;
 width: 173px;
 height: 18px;
@@ -207,7 +208,7 @@ line-height: 125%;
 
 color: rgba(41, 55, 95, 0.8);
 }
-.wedenesday{
+.scheduleDay3{
     
 position: absolute;
 width: 90px;

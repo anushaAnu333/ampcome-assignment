@@ -58,9 +58,11 @@ const Dashboard = () => {
 
         <Appointment/>
         <Schedule/>
+       
 			</div>
      
-    
+ 
+ 
 		</div>
 	);
 };

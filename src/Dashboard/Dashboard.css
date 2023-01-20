@@ -1,5 +1,5 @@
 .mainContainer {
-	height: 1000px;
+	height: 1700px;
 	width: 1350px;
 	left: -276px;
 	top: -8662px;
@@ -18,7 +18,7 @@
 }
 .topBox {
 	background-color: rgba(32, 55, 101, 1);
-	height: 20%;
+	height: 17%;
 	width: 100%;
 }
 .container {
@@ -260,7 +260,7 @@ background: rgba(10, 148, 16, 0.04);
      */
 }
 
-.todayText{
+.scheduleDay{
 position: absolute;
 width: 132px;
 height: 18px;
@@ -425,24 +425,24 @@ color: .008D17;
 }
 
 
-.viewAllText1{
+.viewAll{
     
 
-left: 9.75%;
-right: 79.88%;
-top: 56.89%;
-bottom: 42.11%;
-margin-top: 90px;
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 17px;
-/* identical to box height */
-
-display: flex;
-align-items: center;
-
+    left: 40.11%;
+    right: 51.73%;
+    top: 56.77%;
+    bottom: 42.23%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    
 }
 
 .waitingText{
