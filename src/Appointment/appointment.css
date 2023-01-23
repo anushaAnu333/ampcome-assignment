@@ -1,0 +1,241 @@
+.appoinmentContainer {
+	position: relative;
+	width: 1310px;
+	height: 1100px;
+    /* border: 2px solid rgb(29, 80, 248); */
+
+}
+
+
+.button {
+	margin-left: 900px;
+	margin-bottom: 40px;
+	background: white;
+	height: 35px;
+	width: 130px;
+	border-radius: 5px;
+	border: 1px solid;
+	color: #fc6964;
+	cursor: pointer;
+    /* border: 1px solid red; */
+}
+
+
+.appointmentTable {
+    /* border: 1px solid rgb(242, 255, 0); */
+	position: absolute;
+	width: 1200px;
+	height: 700px;
+	left: 109px;
+	top: 268px;
+	background: #ffffff;
+	box-shadow: 0px 4px 10px #e5e6ef;
+	border-radius: 6px;
+}
+.appointmentMain{
+
+width: 1300px;
+}
+
+
+
+
+
+
+.patientDetail {
+	font-family: Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.patientDetail td,
+.patientDetail th {
+	padding: 30px;
+	cursor: pointer;
+}
+
+.patientDetail tr {
+	border: 1px solid rgba(191, 210, 243, 1)
+    ;
+}
+
+.patientDetail th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: center;
+	background: #f0f4fd;
+	color: black;
+}
+
+.hr {
+	background: black;
+	margin: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: -6px;
+}
+
+.h2 {
+	text-align: left;
+	margin-left: 10%;
+}
+.p {
+	text-align: left;
+	margin-left: 10%;
+}
+
+.appoinmentSelectOption {
+	height: 37px;
+	width: 180px;
+	border: 2px solid rgb(216, 225, 255);
+	margin-bottom: 20px;
+	border-radius: 5px;
+	margin-left: 9px;
+}
+.search {
+	
+
+    height: 30px;
+	width: 180px;
+	border: 2px solid rgb(216, 225, 255);
+
+}
+.nav{
+    width: 1300px;
+    /* border: 2px solid rgb(4, 16, 58); */
+justify-content: space-around;
+}
+.td1{
+    width: 60px;
+height: 17px;
+left: 141px;
+top: 428px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #29375F;
+}
+.td2{
+    width: 80px;
+height: 17px;
+left: 236px;
+top: 340px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #279AF1;
+}
+.td3{
+
+    width: 117px;
+height: 17px;
+left: 385px;
+top: 361px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: rgba(41, 55, 95, 0.6);
+
+}
+.td4{
+    width: 95px;
+height: 19px;
+left: 575px;
+top: 427px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135.19%;
+/* identical to box height, or 19px */
+
+
+color: #29375F;
+
+}
+.td5{
+    left: 51.04%;
+right: 44.05%;
+top: 37.27%;
+bottom: 60.92%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #29375F;
+}
+
+.td6{
+    left: 61.83%;
+right: 33.2%;
+top: 35.78%;
+bottom: 60.06%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #29375F;
+
+}
+.td7{
+    left: 73.37%;
+right: 22.61%;
+top: 37.27%;
+bottom: 61.13%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #656F8D;
+
+
+}
+.td8{
+    left: 73.37%;
+right: 22.61%;
+top: 37.27%;
+bottom: 61.13%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #656F8D;
+
+
+}
